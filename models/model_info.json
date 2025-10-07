@@ -1,0 +1,34 @@
+{
+    "training_date": "2025-10-02T15:54:26.703654",
+    "training_samples": 998,
+    "silhouette_score": 0.3892663132310474,
+    "explained_variance_ratio": 0.950343399273111,
+    "feature_columns": [
+        "soil_moisture_estimate",
+        "et0",
+        "moisture_deficit",
+        "cumulative_precipitation_3d",
+        "cumulative_precipitation_7d",
+        "vpd",
+        "degree_days"
+    ],
+    "n_clusters": 2,
+    "cluster_distribution": {
+        "cluster_0": 567,
+        "cluster_1": 431
+    },
+    "cluster_characteristics": {
+        "cluster_0": {
+            "avg_soil_moisture": 1.7585497066995377,
+            "avg_et0": 18.429158102107095,
+            "avg_moisture_deficit": 68.24145029330046,
+            "avg_precip_3d": 3.240917107583774
+        },
+        "cluster_1": {
+            "avg_soil_moisture": 33.83740981749629,
+            "avg_et0": 6.6556040659787135,
+            "avg_moisture_deficit": 36.16259018250371,
+            "avg_precip_3d": 8.229930394431555
+        }
+    }
+}

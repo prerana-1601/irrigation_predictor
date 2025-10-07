@@ -1,0 +1,44 @@
+{
+    "prediction_date": "2025-10-03 11:19:04",
+    "cluster": 0,
+    "decision": "No irrigation needed",
+    "confidence": 46.6,
+    "weather": {
+        "today": {
+            "date": "2025-10-03",
+            "temperature": 13.444444444444446,
+            "tempmax": 18.833333333333336,
+            "tempmin": 9.944444444444445,
+            "humidity": 69.7,
+            "pressure": 1019.3,
+            "wind_speed": 9.745472,
+            "wind_dir": 262.8,
+            "clouds": 77.9,
+            "precipitation": 0.4064,
+            "uvindex": 4.0,
+            "solarradiation": 117.0,
+            "conditions": "Rain, Partially cloudy"
+        },
+        "forecast": [
+            {
+                "date": "2025-10-04",
+                "temperature": 15.777777777777779,
+                "tempmax": 24.777777777777775,
+                "tempmin": 7.722222222222222,
+                "humidity": 60.0,
+                "wind_speed": 3.308096,
+                "clouds": 83.1,
+                "precipitation": 0.0,
+                "precipprob": 0.0,
+                "conditions": "Partially cloudy"
+            }
+        ]
+    },
+    "field_conditions": {
+        "soil_moisture_percent": 0,
+        "moisture_deficit_percent": 70,
+        "evapotranspiration_mm": 17.48,
+        "recent_rainfall_3d_mm": 3.7,
+        "vpd_kpa": 0.47
+    }
+}
