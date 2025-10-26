@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Demo User",
+    "email": "demo@hansal.ai",
+    "password": "hansal123",
+    "role": "user",
+    "fields": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Admin",
+    "email": "admin@hansal.ai",
+    "password": "admin123",
+    "role": "admin",
+    "fields": [
+      1
+    ]
+  }
+]

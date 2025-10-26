@@ -1,0 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #008080;
+  --color-accent: #70B8B8;
+}
+
+html, body, #root { height: 100%; }
